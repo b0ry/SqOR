@@ -4,7 +4,7 @@ One night after a long session on Diablo 2 my barbarian and I settled done to a 
 
 I haven't worked on it in a while, if there's enough interest I'll pick it back up. My dream is to have Smooth McGroove do the soundtrack but he may find the outlook a bit too bleak, I know I do.
 
-# Controls - Best to pad these to xbox controls if you have them
+# Controls - Best to pad these to xbox controllers if you have them
 
 * Pause - Del
 * Restart/Quit  - Esc
