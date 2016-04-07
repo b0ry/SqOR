@@ -6,4 +6,28 @@ I haven't worked on it in a while, if there's enough interest I'll pick it back 
 
 # Controls - Best to pad these to xbox controls if you have them
 
-Player 1
+* Pause - Del
+* Restart/Quit  - Esc
+
+# Player 1
+* Up    - W
+* Down  - S
+* Left  - A
+* Right - D
+
+* Special - C
+* Attack  - V
+* Jump    - B
+* Start  - SPACE
+
+# Player 2
+* Up    - Up Arrow
+* Down  - Down Arrow
+* Left  - Left Arrow
+* Right - Right Arrow 
+
+* Special - I
+* Attack  - O
+* Jump    - P
+* Start  - ENTER
+
